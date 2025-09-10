@@ -2,9 +2,9 @@ GroundStudio BMM150 module
 ====================================
 ![BMM150_module](https://github.com/GroundStudio/GroundStudio_BMM150_module/assets/77836107/0b39e4d2-e6af-46d0-be42-3dd7c00b4d8f)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/118-groundstudio)
+Get it from [ardushop.ro](https://ardushop.ro/en/groundstudio/995-magnetometru-bmm150-6427854013477.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
